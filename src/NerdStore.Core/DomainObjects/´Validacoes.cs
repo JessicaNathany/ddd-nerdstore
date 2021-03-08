@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿
+using System.Text.RegularExpressions;
 
 namespace NerdStore.Core.DomainObjects
 {
@@ -56,7 +57,22 @@ namespace NerdStore.Core.DomainObjects
             if(objet1 == null) { throw new DomainException(mensagem); }
         }
 
-        public static void ValidarSeMenorIgualMinimo(int valor, int minimo, string mensagem)
+        public static void ValidarMinimoMaximo(double valor, double minimo, double maximo, string mensagem)
+        {
+            if (valor < minimo || valor > maximo) { throw new DomainException(mensagem); }
+        }
+
+        public static void ValidarMinimoMaximo(float valor, float minimo, float maximo, string mensagem)
+        {
+            if (valor < minimo || valor > maximo) { throw new DomainException(mensagem); }
+        }
+
+        public static void ValidarMinimoMaximo(decimal valor, decimal minimo, decimal maximo, string mensagem)
+        {
+            if (valor < minimo || valor > maximo) { throw new DomainException(mensagem); }
+        }
+
+        public static void ValidarSeMenorIgualMinimo(decimal valor, int minimo, string mensagem)
         {
             if(valor <= minimo) { throw new DomainException(mensagem); }
         }
@@ -69,11 +85,6 @@ namespace NerdStore.Core.DomainObjects
         public static void ValidarSeVerdadeiro(bool boolValor, string mensagem)
         {
             if(!boolValor) { throw new DomainException(mensagem); } 
-        }
-
-        public static void ValidarMinimoMaximo(double valor, double minimo, double maximo, string mensagem)
-        {
-            if (valor < minimo || valor > maximo) { throw new DomainException(mensagem); }
         }
     }
 }
