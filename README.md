@@ -7,6 +7,12 @@
  Fontes
  * :bookmark_tabs: AgileAndArt -  (http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/)
  * :bookmark_tabs: Eduardo Pires -  (https://www.eduardopires.net.br/2016/08/ddd-nao-e-arquitetura-em-camadas/)
+ * :bookmark_tabs: DDD Community.org - (https://www.dddcommunity.org/) 
+ * :bookmar_tabs: Awesome Domain-Driven Design (https://github.com/heynickc/awesome-ddd)
+ * :bookmar_tabs: DomainDrivenDesign Martin Fowler (https://martinfowler.com/bliki/DomainDrivenDesign.html)
+ * :bookmar_tabs: Summary of the Domain Driven Design concepts (https://medium.com/@ruxijitianu/summary-of-the-domain-driven-design-concepts-9dd1a6f90091)
+
+
 
 ## Entidades
 ##### As Entidades são classes de objetos que necessitam de uma entidade. Normalmente são elementos de domínio que possuem ciclo de vida dedntro da nossa aplicação: um Cliente, por exemplo, se cadastra no sistema, faz compras, se torna inativo, é excluído, etc.
