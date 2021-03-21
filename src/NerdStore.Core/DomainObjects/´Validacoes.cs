@@ -7,24 +7,17 @@ namespace NerdStore.Core.DomainObjects
     {
         public static void ValidarSeIgual(object objet1, object objet2, string mensagem)
         {
-            if (!objet1.Equals(objet2))
-            {
-                throw new DomainException(mensagem);
-            }
+            if (objet1.Equals(objet2)) { throw new DomainException(mensagem); }
         }
 
         public static void ValidarSeDiferente(object objet1, object objet2, string mensagem)
         {
-            if (objet1.Equals(objet2))
-            {
-                throw new DomainException(mensagem);
-            }
+            if (!objet1.Equals(objet2)) { throw new DomainException(mensagem); }
         }
 
         public static void ValidarCaracteres(string valor, int maximo, string mensagem)
         {
             var length = valor.Trim().Length;
-
             if (length > maximo) { throw new DomainException(mensagem); } 
         }
 
@@ -38,18 +31,13 @@ namespace NerdStore.Core.DomainObjects
         {
             var regex = new Regex(pattern);
             
-            if(!regex.IsMatch(valor))
-            {
-                throw new DomainException(mensagem);
-            }
+            if(!regex.IsMatch(valor)) { throw new DomainException(mensagem); }
         }
 
         public static void ValidarSeVazio(string valor, string mensagem)
         {
             if (valor == null || valor.Trim().Length == 0)
-            {
                 throw new DomainException(mensagem);
-            }
         }
 
         public static void ValidarSeNulo(object objet1, string mensagem)
@@ -75,6 +63,12 @@ namespace NerdStore.Core.DomainObjects
         public static void ValidarSeMenorIgualMinimo(decimal valor, int minimo, string mensagem)
         {
             if(valor <= minimo) { throw new DomainException(mensagem); }
+        }
+
+        public static void ValidarSeMenorQue(decimal valor, decimal minimo, string mensagem)
+        {
+            if (valor < minimo)
+                throw new DomainException(mensagem);
         }
 
         public static void ValidarSeFalso(bool boolValor, string mensagem)
