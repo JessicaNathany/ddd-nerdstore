@@ -1,4 +1,4 @@
- ### Projeto para estudos do DDD
+ ### Projeto para estudos do DDD vided com base no curso de Dominios Ricos Dev.IO (http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/)
  
 :blue_book: Domain Driven Design
 
