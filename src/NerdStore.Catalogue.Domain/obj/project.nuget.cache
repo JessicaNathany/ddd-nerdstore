@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hKW92JZKfv5BYN+OuZ0Axz6zwtPEfaTdR8tJ1+bTqSW157Ra6nh664yN/YwEi9XXMIqkWoPcwhTkMquvJ79WIA==",
+  "dgSpecHash": "5cbJe7rme2zPUgFDLsbvPc+kNdXt8zYn9BKZQ3EqD7dihbcmTgU19cA3LODn5aPMFQJakIAOWFyUJSI05PB1pQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Catalogue.Domain\\NerdStore.Catalogue.Domain.csproj",
   "expectedPackageFiles": [
