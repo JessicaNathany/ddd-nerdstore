@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Catalogue.Domain\\NerdStore.Catalogue.Domain.csproj",
         "projectName": "NerdStore.Catalogue.Domain",
         "projectPath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Catalogue.Domain\\NerdStore.Catalogue.Domain.csproj",
-        "packagesPath": "C:\\Users\\jnathany\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\jnath\\.nuget\\packages\\",
         "outputPath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Catalogue.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jnathany\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jnath\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -71,14 +71,14 @@
         "projectUniqueName": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
         "projectPath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
-        "packagesPath": "C:\\Users\\jnathany\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\jnath\\.nuget\\packages\\",
         "outputPath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jnathany\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jnath\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -128,14 +128,14 @@
         "projectUniqueName": "C:\\GitHub\\ddd-nerdstore\\tests\\NerdStore.Catalogue.Tests\\NerdStore.Catalogue.Tests.csproj",
         "projectName": "NerdStore.Catalogue.Tests",
         "projectPath": "C:\\GitHub\\ddd-nerdstore\\tests\\NerdStore.Catalogue.Tests\\NerdStore.Catalogue.Tests.csproj",
-        "packagesPath": "C:\\Users\\jnathany\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\jnath\\.nuget\\packages\\",
         "outputPath": "C:\\GitHub\\ddd-nerdstore\\tests\\NerdStore.Catalogue.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jnathany\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jnath\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -200,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
