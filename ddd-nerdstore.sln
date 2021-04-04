@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Core", "src\NerdS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{ACE83F29-D557-448B-A988-ABA1B8567231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Catalogue.Tests", "tests\NerdStore.Catalogue.Tests\NerdStore.Catalogue.Tests.csproj", "{DFE55E88-31FF-4F6B-A452-A59CF88BB112}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Catalogue.Tests", "tests\NerdStore.Catalogue.Tests\NerdStore.Catalogue.Tests.csproj", "{DFE55E88-31FF-4F6B-A452-A59CF88BB112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerdstore.Catalogue.Data", "src\Nerdstore.Catalogue.Data\Nerdstore.Catalogue.Data.csproj", "{B60FE876-8A53-4C1F-8739-7EDDA4B994D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DFE55E88-31FF-4F6B-A452-A59CF88BB112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFE55E88-31FF-4F6B-A452-A59CF88BB112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFE55E88-31FF-4F6B-A452-A59CF88BB112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60FE876-8A53-4C1F-8739-7EDDA4B994D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60FE876-8A53-4C1F-8739-7EDDA4B994D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60FE876-8A53-4C1F-8739-7EDDA4B994D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60FE876-8A53-4C1F-8739-7EDDA4B994D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{8E04BBEC-23CD-4A0F-B6E6-78D5FDA37403} = {ECCCB715-A2D9-49CA-8284-0CF26A0B3A15}
 		{ACE83F29-D557-448B-A988-ABA1B8567231} = {2D253F29-0AE5-4E84-B234-E7B005B32DEC}
 		{DFE55E88-31FF-4F6B-A452-A59CF88BB112} = {ACE83F29-D557-448B-A988-ABA1B8567231}
+		{B60FE876-8A53-4C1F-8739-7EDDA4B994D4} = {2D253F29-0AE5-4E84-B234-E7B005B32DEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {012350D1-8192-4A7A-A361-4971BAD28071}

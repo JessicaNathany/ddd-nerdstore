@@ -3,7 +3,6 @@ C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\bin\Debug\netcoreapp3.1\N
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.pdb
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
-C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.csprojAssemblyReference.cache
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.AssemblyInfoInputs.cache
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.AssemblyInfo.cs
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalogue.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.csproj.CoreCompileInputs.cache
