@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5cbJe7rme2zPUgFDLsbvPc+kNdXt8zYn9BKZQ3EqD7dihbcmTgU19cA3LODn5aPMFQJakIAOWFyUJSI05PB1pQ==",
+  "dgSpecHash": "UIjqJGdJk5kj94rOPbF2HRII8kr6xngiAxKKpcoPXiliLAKdOBsaZEn9GEjVAss8o/qfQu7rRNyoO1m7Z9U9Hg==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Catalogue.Domain\\NerdStore.Catalogue.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnath\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\jnath\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\jnath\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jnath\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\jnath\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
