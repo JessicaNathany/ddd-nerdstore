@@ -4,4 +4,13 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Nerdstore.Catalogue.Data\Nerdstore.Catalogue.Data.csproj" />
+    <ProjectReference Include="..\NerdStore.Catalogue.Domain\NerdStore.Catalogue.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
 </Project>

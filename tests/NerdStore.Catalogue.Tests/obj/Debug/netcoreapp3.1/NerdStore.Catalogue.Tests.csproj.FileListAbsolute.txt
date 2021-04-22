@@ -6,6 +6,7 @@ C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\
 C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Tests.runtimeconfig.dev.json
 C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Tests.dll
 C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Tests.pdb
+C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\GitHub\ddd-nerdstore\tests\NerdStore.Catalogue.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll

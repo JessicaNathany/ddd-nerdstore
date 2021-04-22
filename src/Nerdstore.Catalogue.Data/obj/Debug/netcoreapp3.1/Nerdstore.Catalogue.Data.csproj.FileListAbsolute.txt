@@ -1,4 +1,17 @@
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.deps.json
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.runtimeconfig.json
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.runtimeconfig.dev.json
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.dll
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.pdb
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.dll
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.pdb
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
 C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.csprojAssemblyReference.cache
 C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.AssemblyInfoInputs.cache
 C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.AssemblyInfo.cs
 C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.csproj.CoreCompileInputs.cache
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.csproj.CopyComplete
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.dll
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.pdb
+C:\GitHub\ddd-nerdstore\src\Nerdstore.Catalogue.Data\obj\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.genruntimeconfig.cache

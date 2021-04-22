@@ -66,7 +66,7 @@ namespace NerdStore.Catalago.Application.Services
             return _mapper.Map<IEnumerable<ProdutoViewModel>>(await _produtoRepository.ObterTodos());
         }
 
-        public async Task<ProdutoViewModel> ReporEstoque(Guid , int quantidade)
+        public async Task<ProdutoViewModel> ReporEstoque(Guid id, int quantidade)
         {
             if (!_estoqueService.ReporEstoque(id, quantidade).Result)
             {

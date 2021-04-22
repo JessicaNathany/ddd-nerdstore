@@ -1,8 +1,16 @@
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalago.Application.deps.json
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalago.Application.dll
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalago.Application.pdb
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.dll
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.dll
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\Nerdstore.Catalogue.Data.pdb
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogue.Domain.pdb
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalago.Application.csprojAssemblyReference.cache
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalago.Application.AssemblyInfoInputs.cache
 C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalago.Application.AssemblyInfo.cs
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalago.Application.csproj.CoreCompileInputs.cache
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalago.Application.csproj.CopyComplete
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalago.Application.dll
+C:\GitHub\ddd-nerdstore\src\NerdStore.Catalago.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalago.Application.pdb

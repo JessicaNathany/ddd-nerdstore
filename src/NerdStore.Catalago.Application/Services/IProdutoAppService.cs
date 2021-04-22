@@ -14,6 +14,6 @@ namespace NerdStore.Catalago.Application.Services
         Task AdicioanrProduto(ProdutoViewModel produtoViewModel);
         Task AtualizarProduto(ProdutoViewModel produtoViewModel);
         Task<ProdutoViewModel> DebitarEstoque(Guid guid, int quantidade);
-        Task<ProdutoViewModel> ReporEstoque(Guid, int quantidade);
+        Task<ProdutoViewModel> ReporEstoque(Guid guid, int quantidade);
     }
 }
