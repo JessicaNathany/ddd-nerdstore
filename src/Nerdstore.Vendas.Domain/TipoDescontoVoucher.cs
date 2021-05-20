@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Nerdstore.Vendas.Domain
 {
-    enum TipoDescontoVoucher
+    public enum TipoDescontoVoucher
     {
+        Porcentagem = 0,
+        Valor = 1
     }
 }
