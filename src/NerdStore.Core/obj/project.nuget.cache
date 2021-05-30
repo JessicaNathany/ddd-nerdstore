@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Wao2pPTR3ElOoitWejNmzHb4gQCLoctILOBlRGtpPFNSKhd9BB/pFs6v5Lvzf/9CzGeRXQ3M/IaWoBsZNd84Gg==",
+  "dgSpecHash": "jdq5LPjKX2QOEhLluzE0CCJgiLxXEn9B5oODKBNK817c+3woadAeCPwO7MiHiIX81/zvbRxkzJrl6eSLLyX1ug==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jnath\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\jnath\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []

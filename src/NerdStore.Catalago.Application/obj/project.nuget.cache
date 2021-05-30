@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GnfJBYRfSJtWzehK/CXsLx087in42Risc8uSfIWpdR7y1MLcOdD9DTv+eGKRq5Pmv+ydWikasPA9y4G2LGUyDA==",
+  "dgSpecHash": "+WsklrHyGkmmxhM7cHdDrTgRU0OuEOSVgnat8joOLQtndgaeJoTaSNoMz9VWN92XBtqkel3xlKdQgfQ+ezTZJA==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Catalago.Application\\NerdStore.Catalago.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnath\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\jnath\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\jnath\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\jnath\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jnath\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
