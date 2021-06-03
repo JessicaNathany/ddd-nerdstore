@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fKOK1ZZcXAUbHYcWEZxP3wB+M0QV2iReKLq/VWfdyuQukd7uMxY8dWH5omiT9mYnDf/Nm8uJm2480C9qU561Gg==",
+  "dgSpecHash": "p+93uh2RChzoEWxqimAsyGnJmPpYijBmTTpPQlM2fle8MJnj7m6VoyKtKnF/e+V5xD0vNHbDROPb6azetR4SlA==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\ddd-nerdstore\\src\\NerdStore.Application.MVC\\NerdStore.Application.MVC.csproj",
   "expectedPackageFiles": [
